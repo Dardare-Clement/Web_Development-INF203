@@ -1,0 +1,15 @@
+
+#div_1 {
+  border:1px solid black; 
+  padding: 11px;
+  }
+  
+#div_2 img {
+  float: left; 
+  padding: 8px;
+  }
+
+#div_3 {
+  background-color: lightslategrey; 
+  margin: 10px;
+  }

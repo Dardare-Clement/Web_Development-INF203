@@ -1,0 +1,25 @@
+
+#div_1 {
+	border: 1px solid black;
+	margin: 11px;
+}
+
+#div_2 img {
+	float: left;
+	margin-right: 8px;
+}
+
+#div_3 {
+	background-color: lightslategrey;
+	padding: 10px;
+}
+
+.highlighted-div {
+	position: fixed;
+	top: 119px;
+	left: 119px;
+	width: 415px;
+	height: 415px;
+	z-index: 1;
+}
+
